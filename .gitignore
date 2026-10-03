@@ -1,0 +1,9 @@
+# Build output
+xlms-matcher
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
